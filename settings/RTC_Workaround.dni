@@ -1,0 +1,112 @@
+[CodeCoverage]
+Enabled=_ 0
+[State Storage]
+Control Register=0
+[Sequencer]
+Control Register=0
+NextState0=0
+NextState1=0
+[Action Register]
+Break=30
+State Storage=0
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=2001241343
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[InstructionProfiling]
+Enabled=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\DMA_FAT\fat_access.c}.491.5@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\DMA_FAT\fat_access.c}.1129.2@1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\DMA_FAT\fat_table.c}.368.4@1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\DMA_FAT\fat_table.c}.342.3@1" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\DMA_FAT\fat_filelib.c}.748.4@1" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\DMA_FAT\fat_filelib.c}.737.4@1" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{$PROJ_DIR$\local_store.c}.151.4@1" 0 0 0 0 "" 0 ""
+Bp7=_ "STD_CODE" "{$PROJ_DIR$\local_store.c}.99.6@1" 0 0 0 0 "" 0 ""
+Bp8=_ "STD_CODE" "{$PROJ_DIR$\wifi.c}.598.11@1" 1 0 0 0 "" 0 ""
+Bp9=_ "STD_CODE" "{$PROJ_DIR$\acc.c}.695.5@1" 1 0 0 0 "" 0 ""
+Bp10=_ "STD_CODE" "{$PROJ_DIR$\wifi.c}.600.13" 1 0 0 0 "" 0 ""
+Count=11
+[FET]
+Clock mode=14
+Extended Clock mode=61663
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Aliases]
+A0=_ "C:\Documents and Settings\Brett\Desktop\Roocas_CAN\can.c" ""
+A1=_ "C:\Documents and Settings\Brett\Desktop\Roocas_CAN\main.c" "C:\Documents and Settings\Brett\Desktop\KR-bridge\code\Roocas_V1\main.c"
+A2=_ "C:\Documents and Settings\Brett\Desktop\Roocas_CAN\sys.c" ""
+A3=_ "C:\Documents and Settings\Brett\Desktop\Roocas_CAN\sys_timer.c" ""
+A4=_ "C:\Documents and Settings\Brett\Desktop\Roocas_V1\acc.c" ""
+Count=5
+SuppressDialog=1

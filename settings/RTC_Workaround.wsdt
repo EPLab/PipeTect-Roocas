@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>RTC_Workaround/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>252</Column0><Column1>29</Column1><Column2>27</Column2><Column3>1242228</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>584</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files>
+    <Debug-Log><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1859</ColumnWidth1></Debug-Log><TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26004-30819</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>RTC_Workaround</ExpandedNode><ExpandedNode>RTC_Workaround/APP</ExpandedNode><ExpandedNode>RTC_Workaround/DRIVERS</ExpandedNode><ExpandedNode>RTC_Workaround/DRIVERS/WIFI</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8982-30933</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-5326-18702</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-7864-18979</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\define.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>230</SelStart><SelEnd>253</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\can.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1423</SelStart><SelEnd>1458</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rtc.h</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>3136</SelStart><SelEnd>3136</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sys_uart.c</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>4128</SelStart><SelEnd>4128</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\utx.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>245</SelStart><SelEnd>245</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sys.c</Filename><XPos>0</XPos><YPos>128</YPos><SelStart>4112</SelStart><SelEnd>4112</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\switcher.c</Filename><XPos>0</XPos><YPos>227</YPos><SelStart>5065</SelStart><SelEnd>5065</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>1426</SelStart><SelEnd>1426</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\wifi.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>881</SelStart><SelEnd>881</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uif.h</Filename><XPos>0</XPos><YPos>25</YPos><SelStart>1055</SelStart><SelEnd>1055</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sys_spi.c</Filename><XPos>0</XPos><YPos>118</YPos><SelStart>3844</SelStart><SelEnd>3844</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uif.c</Filename><XPos>0</XPos><YPos>118</YPos><SelStart>3776</SelStart><SelEnd>3776</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\acc.c</Filename><XPos>0</XPos><YPos>672</YPos><SelStart>16121</SelStart><SelEnd>16121</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\wifi.h</Filename><XPos>0</XPos><YPos>144</YPos><SelStart>3660</SelStart><SelEnd>3660</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redpine.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>4658</SelStart><SelEnd>4658</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redpine.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>573</SelStart><SelEnd>573</SelEnd></Tab><ActiveTab>2</ActiveTab></Pane><Sizes><Pane><X>605237</X><Y>1000000</Y></Pane><Pane><X>394762</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01378b68><key>iaridepm.enu1</key></Toolbar-01378b68></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>620</Bottom><Right>345</Right><x>-2</x><y>-2</y><xscreen>33</xscreen><yscreen>45</yscreen><sizeHorzCX>19643</sizeHorzCX><sizeHorzCY>53444</sizeHorzCY><sizeVertCX>206548</sizeVertCX><sizeVertCY>738717</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>178</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>180</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>213777</sizeHorzCY><sizeVertCX>19643</sizeVertCX><sizeVertCY>53444</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
